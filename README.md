@@ -13,4 +13,4 @@ Secondly implement LSTM machine learning algorithm to predict the price for the 
 There are two python files attached: 
 One is for the ETL pipeline including connection with MySQL database, set up the files sturture, data cleaning and transformation based on use case requirements.
 
-The second python file is the monthly sales prediction with LSTM and visulisation with matplotlib python library.
+The second python file is the monthly sales prediction with LSTM, visulisation with matplotlib python library and load the predictive data to MySQL.
